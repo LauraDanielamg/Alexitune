@@ -1,43 +1,68 @@
 from lyricsgenius import Genius
 from lyricsgenius.api.base import HTTPError, Timeout
 
+from utils import ArtistSongs, Songs
+
 import os
 import json
+from functools import reduce
 
-lyrics_folder = 'lyrics'
+folder = 'lyrics'
 genius: Genius
 
 def __path(id: int) -> str:
-    return f'{lyrics_folder}/{id}.json'
+    return f'{folder}/{id}.json'
 
-def __save(id: int, lyrics: dict):
+def __save(id: int, lyrics: str):
     path = __path(id)
     
-    if os.path.exists(lyrics_folder) is not True:
-        os.makedirs(lyrics_folder)
+    if os.path.exists(folder) is not True:
+        os.makedirs(folder)
 
     with open(path, 'w') as file:
         json.dump(lyrics, file, indent='\t')
 
-def __download(id: int) -> dict:
-    try:
-        dict = genius.lyrics(id, remove_section_headers=True)
-    except HTTPError as err:
-        print(err)
-        dict = {}
-    except Timeout as err:
-        print(err)
-        dict = {}
-    
-    __save(id, dict)
-    return dict
-    
-def load(id: int) -> str:
+def __load(path: str) -> str:
+    with open(path, 'r') as file:
+        return json.load(file)
+
+def __download(id: int) -> str:
     path = __path(id)
 
-    if os.path.exists(path) is not True:
-        lyric = __download(id)
-    else:
-        lyric = json.load(open(path))
+    if os.path.exists(path):
+        return __load(path)
 
-    return lyric
+    try:
+        lyricts = genius.lyrics(id, remove_section_headers=True)
+    except HTTPError as err:
+        print(err)
+        lyricts = ''
+    except Timeout as err:
+        print(err)
+        lyricts = ''
+    
+    __save(id, lyricts)
+    return lyricts
+    
+def lyrics(id: int) -> str:
+    return __download(id)
+
+def remove(id: int):
+    with open(__path(id), 'w') as file:
+        json.dump('', file, indent='\t')
+
+def load_from_artist_songs():
+    folder = ArtistSongs.folder
+
+    data = os.listdir(folder)
+    data = map(ArtistSongs.__path, data)
+    data = map(open, data)
+    data = map(json.load, data)
+    data = map(lambda dict: dict.get('songs', []), data)
+    data = reduce(lambda x, y: x + y, data, [])
+    data = map(lambda dict: dict.get('id'), data)
+    data = list(data)
+
+    for id in data:
+        Songs.song(id)
+        __download(id)

@@ -1,6 +1,7 @@
 from lyricsgenius import Genius
 from lyricsgenius.song import Song
 from lyricsgenius.api.base import HTTPError, Timeout
+
 import os
 import json
 
@@ -35,11 +36,11 @@ def __download(id: int) -> Song:
     try:
         song_dict = genius.song(id)
     except HTTPError as err:
-        print(err)
-        song_dict = {'url':'', 'api_path': ' ', 'id':' '}
+        print(f'ID: {id} HTTPError: {err}.')
+        song_dict = {'url':'', 'api_path': '', 'id':'', 'language': ''}
     except Timeout as err:
-        print(err)
-        song_dict = {'url':' ', 'api_path': ' ', 'id':' '}
+        print(f'ID: {id} Timeout: {err}.')
+        song_dict = {'url':'', 'api_path': '', 'id':'', 'language': ''}
 
     __save(song_dict, id)
     return Song(song_dict)
@@ -47,15 +48,11 @@ def __download(id: int) -> Song:
 def song(id: int) -> Song:
     return __download(id)
 
-def song_batch(from_id: int = 1):
-    id = from_id
-    
-    while True:
-        __download(id)
-        id += 1
-        
-def song_is_loaded() -> bool:
-    return len(os.listdir(folder)) > 0
+def remove(id: int):
+    path = __path(id)
+
+    if os.path.exists(path) is not True:
+        os.remove(path)
 
 def songs() -> [Song]:
     dirs = os.listdir(folder)
