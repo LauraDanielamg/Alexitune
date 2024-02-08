@@ -165,3 +165,5 @@ lyrics/
 charts/
 artists/
 artist_songs/
+*.csv
+.DS_Store
