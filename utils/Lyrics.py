@@ -45,6 +45,7 @@ def __download(id: int) -> str:
     return lyricts
     
 def lyrics(id: int) -> str:
+    if type(id) is not int: return ''
     return __download(id)
 
 def remove(id: int):
@@ -60,6 +61,7 @@ def load_from_artist_songs():
     data = map(json.load, data)
     data = map(lambda dict: dict.get('songs', []), data)
     data = reduce(lambda x, y: x + y, data, [])
+    data = filter(lambda dict: dict.get('language') in ["en", "uk"], data)
     data = map(lambda dict: dict.get('id'), data)
     data = list(data)
 
