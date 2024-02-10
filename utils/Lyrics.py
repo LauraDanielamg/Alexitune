@@ -45,6 +45,7 @@ def __download(id: int) -> str:
     return lyricts
     
 def lyrics(id: int) -> str:
+    if type(id) is not int: return ''
     return __download(id)
 
 def remove(id: int):

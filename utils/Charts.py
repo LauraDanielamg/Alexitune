@@ -6,6 +6,7 @@ from utils import Artists
 import os
 import json
 from functools import reduce
+from typing import Union
 
 folder = 'charts'
 genius: Genius
@@ -31,16 +32,16 @@ class ChartList(object):
         return Chart(chart)
 
     @property
-    def __items(self) -> [dict]:
+    def __items(self) -> list[dict]:
         return self._json['chart_items']
     
     @property
-    def charts(self) -> [Chart]:
+    def charts(self) -> list[Chart]:
         charts = self.__items
         charts = map(self.__map_chart, charts)
         return list(charts)
 
-def __path(page: int or str) -> str:
+def __path(page: Union[int, str]) -> str:
     if type(page) is int:
         return __path(f'{page}.json')
     else:
@@ -75,7 +76,7 @@ def chart_download():
     while len(__download(page).charts) > 0:
         page += 1
 
-def charts() -> [Chart]:
+def charts() -> list[Chart]:
     files = os.listdir(folder)
     files = map(__path, files)
 

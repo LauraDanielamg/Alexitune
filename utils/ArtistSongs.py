@@ -2,16 +2,16 @@ from lyricsgenius import Genius
 from lyricsgenius.artist import Artist
 from lyricsgenius.api.base import HTTPError, Timeout
 
-
 import utils.Charts as Charts
 
 import os
 import json
+from typing import Union
 
 folder = 'artist_songs'
 genius: Genius
 
-def __path(id: int or str) -> str:
+def __path(id: Union[int, str]) -> str:
     if type(id) is int:
         return __path(f'{id}.json')
     else:

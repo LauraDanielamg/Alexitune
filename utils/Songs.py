@@ -4,11 +4,12 @@ from lyricsgenius.api.base import HTTPError, Timeout
 
 import os
 import json
+from typing import Union
 
 folder = 'songs'
 genius: Genius
 
-def __path(id: int or str) -> str:
+def __path(id: Union[int, str]) -> str:
     if type(id) is int:
         return __path(f'{id}.json')
     else:
@@ -54,7 +55,7 @@ def remove(id: int):
     if os.path.exists(path) is not True:
         os.remove(path)
 
-def songs() -> [Song]:
+def songs() -> list[Song]:
     dirs = os.listdir(folder)
     dirs = map(__path, dirs)
 

@@ -167,3 +167,4 @@ artists/
 artist_songs/
 *.csv
 .DS_Store
+roberta-goemotions/
