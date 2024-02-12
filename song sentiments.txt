@@ -1,0 +1,300 @@
+Song Name: "Imagine"
+Artist: John Lennon
+Sentiments: {'admiration': 1, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 1, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 1, 'grief': 0, 'joy': 0, 'love': 1, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Bohemian Rhapsody"
+Artist: Queen
+Sentiments: {'admiration': 1, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 1, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 1, 'grief': 0, 'joy': 0, 'love': 1, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "What a Wonderful World"
+Artist: Louis Armstrong
+Sentiments: {'admiration': 1, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 1, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 1, 'grief': 0, 'joy': 0, 'love': 1, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "I Will Always Love You"
+Artist: Whitney Houston
+Sentiments: {'admiration': 1, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 1, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 1, 'grief': 0, 'joy': 0, 'love': 1, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Hallelujah"
+Artist: Leonard Cohen
+Sentiments: {'admiration': 1, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 1, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 1, 'grief': 0, 'joy': 0, 'love': 1, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Lean on Me"
+Artist: Bill Withers
+Sentiments: {'admiration': 1, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 1, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 1, 'grief': 0, 'joy': 0, 'love': 1, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Hero"
+Artist: Mariah Carey
+Sentiments: {'admiration': 1, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 1, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 1, 'grief': 0, 'joy': 0, 'love': 1, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "What's Going On"
+Artist: Marvin Gaye
+Sentiments: {'admiration': 1, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 1, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 1, 'grief': 0, 'joy': 0, 'love': 1, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Happy"
+Artist: Pharrell Williams
+Sentiments: {'admiration': 0, 'amusement': 1, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 1, 'love': 0, 'nervousness': 0, 'optimism': 1, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Uptown Funk"
+Artist: Mark Ronson ft. Bruno Mars
+Sentiments: {'admiration': 0, 'amusement': 1, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 1, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 1, 'love': 0, 'nervousness': 0, 'optimism': 1, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Shake It Off"
+Artist: Taylor Swift
+Sentiments: {'admiration': 0, 'amusement': 1, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 1, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 1, 'love': 0, 'nervousness': 0, 'optimism': 1, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Can't Stop the Feeling!"
+Artist: Justin Timberlake
+Sentiments: {'admiration': 0, 'amusement': 1, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 1, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 1, 'love': 0, 'nervousness': 0, 'optimism': 1, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Break Stuff"
+Artist: Limp Bizkit
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 1, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 1, 'disgust': 1, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Down with the Sickness"
+Artist: Disturbed
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 1, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 1, 'disgust': 1, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Killing in the Name"
+Artist: Rage Against the Machine
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 1, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 1, 'disgust': 1, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Before I Forget"
+Artist: Slipknot
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 1, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 1, 'disgust': 1, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Bad Day"
+Artist: Daniel Powter
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 1, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 1, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Why Does It Always Rain on Me?"
+Artist: Travis
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 1, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 1, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Creep"
+Artist: Radiohead
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 1, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 1, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Somebody That I Used to Know"
+Artist: Gotye ft. Kimbra
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 1, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 1, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Eye of the Tiger"
+Artist: Survivor
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 1, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 1, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 1, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "We Will Rock You"
+Artist: Queen
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 1, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 1, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 1, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Don't Stop Believin'"
+Artist: Journey
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 1, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 1, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 1, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Happy"
+Artist: Pharrell Williams
+Sentiments: {'admiration': 0, 'amusement': 1, 'anger': 0, 'annoyance': 0, 'approval': 1, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 1, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 1, 'love': 0, 'nervousness': 0, 'optimism': 1, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Lean on Me"
+Artist: Bill Withers
+Sentiments: {'admiration': 1, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 1, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 1, 'grief': 0, 'joy': 0, 'love': 1, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Bridge Over Troubled Water"
+Artist: Simon & Garfunkel
+Sentiments: {'admiration': 1, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 1, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 1, 'grief': 0, 'joy': 0, 'love': 1, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "With a Little Help from My Friends"
+Artist: The Beatles
+Sentiments: {'admiration': 1, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 1, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 1, 'grief': 0, 'joy': 0, 'love': 1, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "He Ain't Heavy, He's My Brother"
+Artist: The Hollies
+Sentiments: {'admiration': 1, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 1, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 1, 'grief': 0, 'joy': 0, 'love': 1, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Bohemian Rhapsody"
+Artist: Queen
+Sentiments: {'admiration': 1, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 1, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 1, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "I Am the Walrus"
+Artist: The Beatles
+Sentiments: {'admiration': 0, 'amusement': 1, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 1, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Lucy in the Sky with Diamonds"
+Artist: The Beatles
+Sentiments: {'admiration': 0, 'amusement': 1, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 1, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "What Is Life"
+Artist: George Harrison
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 1, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "The Sound of Silence"
+Artist: Simon & Garfunkel
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 1, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Imagine"
+Artist: John Lennon
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 1, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Astronomy Domine"
+Artist: Pink Floyd
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 1, 'curiosity': 1, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Bohemian Rhapsody"
+Artist: Queen
+Sentiments: {'admiration': 1, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 1, 'curiosity': 1, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 1, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Wicked Game"
+Artist: Chris Isaak
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 1, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 1, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Earned It"
+Artist: The Weeknd
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 1, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 1, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Crazy in Love"
+Artist: Beyoncé ft. Jay-Z
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 1, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 1, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "I Want to Know What Love Is"
+Artist: Foreigner
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 1, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 1, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Nothing Compares 2 U"
+Artist: Sinéad O Connor
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 1, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 1, 'surprise': 0, 'neutral': 0}
+Song Name: "Tears Dry on Their Own"
+Artist: Amy Winehouse
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 1, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 1, 'surprise': 0, 'neutral': 0}
+Song Name: "Sorry"
+Artist: Justin Bieber
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 1, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 1, 'surprise': 0, 'neutral': 0}
+Song Name: "Back to December"
+Artist: Taylor Swift
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 1, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 1, 'surprise': 0, 'neutral': 0}
+Song Name: "Irreplaceable"
+Artist: Beyoncé
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 1, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Before He Cheats"
+Artist: Carrie Underwood
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 1, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 1, 'disgust': 1, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Gives You Hell"
+Artist: The All-American Rejects
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 1, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 1, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "You're Beautiful"
+Artist: James Blunt
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 1, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "WAP"
+Artist: Cardi B ft. Megan Thee Stallion
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 1, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Gold Digger"
+Artist: Kanye West ft. Jamie Foxx
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 1, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Anaconda"
+Artist: Nicki Minaj
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 1, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Sicko Mode"
+Artist: Travis Scott
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 1, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Oops!... I Did It Again"
+Artist: Britney Spears
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 1, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Shameless"
+Artist: Camila Cabello
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 1, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "I Will Survive"
+Artist: Gloria Gaynor
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 1, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Say Something"
+Artist: Justin Timberlake ft. Chris Stapleton
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 1, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Happy"
+Artist: Pharrell Williams
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 1, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 1, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Uptown Funk"
+Artist: Mark Ronson ft. Bruno Mars
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 1, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 1, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Can't Stop the Feeling!"
+Artist: Justin Timberlake
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 1, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 1, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Don't Stop Believin'"
+Artist: Journey
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 1, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 1, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Thriller"
+Artist: Michael Jackson
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 1, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Disturbia"
+Artist: Rihanna
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 1, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Highway to Hell"
+Artist: AC/DC
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 1, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Somebody's Watching Me"
+Artist: Rockwell
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 1, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Thank You"
+Artist: Dido
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 1, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "What a Wonderful World"
+Artist: Louis Armstrong
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 1, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Count Your Blessings"
+Artist: Bing Crosby
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 1, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Grateful"
+Artist: Rita Ora
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 1, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Tears in Heaven"
+Artist: Eric Clapton
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 1, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 1, 'surprise': 0, 'neutral': 0}
+Song Name: "My Immortal"
+Artist: Evanescence
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 1, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 1, 'surprise': 0, 'neutral': 0}
+Song Name: "Hurt"
+Artist: Johnny Cash
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 1, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 1, 'surprise': 0, 'neutral': 0}
+Song Name: "The Night We Met"
+Artist: Lord Huron
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 1, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 1, 'surprise': 0, 'neutral': 0}
+Song Name: "Happy Together"
+Artist: The Turtles
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 1, 'love': 0, 'nervousness': 0, 'optimism': 1, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Can't Take My Eyes Off You"
+Artist: Frankie Valli
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 1, 'love': 1, 'nervousness': 0, 'optimism': 1, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Don't Worry, Be Happy"
+Artist: Bobby McFerrin
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 1, 'love': 0, 'nervousness': 0, 'optimism': 1, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "I Gotta Feeling"
+Artist: The Black Eyed Peas
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 1, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 1, 'love': 0, 'nervousness': 0, 'optimism': 1, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Perfect"
+Artist: Ed Sheeran
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 1, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "I Will Always Love You"
+Artist: Whitney Houston
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 1, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Unchained Melody"
+Artist: The Righteous Brothers
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 1, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Something"
+Artist: The Beatles
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 1, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Under Pressure"
+Artist: Queen & David Bowie
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 1, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Elastic Heart"
+Artist: Sia
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 1, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Mad World"
+Artist: Gary Jules
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 1, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Chandelier"
+Artist: Sia
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 1, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "I'm a Believer"
+Artist: The Monkees
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 1, 'love': 0, 'nervousness': 0, 'optimism': 1, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "What's Up?"
+Artist: 4 Non Blondes
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 1, 'love': 0, 'nervousness': 0, 'optimism': 1, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Walking on Sunshine"
+Artist: Katrina and the Waves
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 1, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 1, 'love': 0, 'nervousness': 0, 'optimism': 1, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Here Comes the Sun"
+Artist: The Beatles
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 1, 'love': 0, 'nervousness': 0, 'optimism': 1, 'pride': 0, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Eye of the Tiger"
+Artist: Survivor
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 1, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 1, 'pride': 1, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "We Will Rock You"
+Artist: Queen
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 1, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 1, 'pride': 1, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Stronger"
+Artist: Kanye West
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 1, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 1, 'pride': 1, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Happy"
+Artist: Pharrell Williams
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 1, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 1, 'pride': 1, 'realization': 0, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Lose Yourself"
+Artist: Eminem
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 1, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 1, 'pride': 1, 'realization': 1, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "The Climb"
+Artist: Miley Cyrus
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 1, 'pride': 1, 'realization': 1, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Man in the Mirror"
+Artist: Michael Jackson
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 1, 'pride': 1, 'realization': 1, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "I Will Survive"
+Artist: Gloria Gaynor
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 1, 'pride': 1, 'realization': 1, 'relief': 0, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Lean on Me"
+Artist: Bill Withers
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 1, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "I Just Called to Say I Love You"
+Artist: Stevie Wonder
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 1, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Three Little Birds"
+Artist: Bob Marley
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 1, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
+Song Name: "Don't Stop Believin'"
+Artist: Journey
+Sentiments: {'admiration': 0, 'amusement': 0, 'anger': 0, 'annoyance': 0, 'approval': 0, 'caring': 0, 'confusion': 0, 'curiosity': 0, 'desire': 0, 'disappointment': 0, 'disapproval': 0, 'disgust': 0, 'embarrassment': 0, 'excitement': 0, 'fear': 0, 'gratitude': 0, 'grief': 0, 'joy': 0, 'love': 0, 'nervousness': 0, 'optimism': 0, 'pride': 0, 'realization': 0, 'relief': 1, 'remorse': 0, 'sadness': 0, 'surprise': 0, 'neutral': 0}
