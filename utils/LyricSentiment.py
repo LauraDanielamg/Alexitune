@@ -7,7 +7,9 @@ from nltk.stem import WordNetLemmatizer
 
 from functools import reduce
 
-model = "SamLowe/roberta-base-go_emotions"
+model = "SamLowe/roberta-base-go_emotions" 
+# model = "roberta-large-goemotions"
+# model = "roberta-base-goemotions"
 classifier = pipeline(task="text-classification", model=model, top_k=None)
 
 nltk.download('words')
@@ -48,5 +50,6 @@ def sentiments(lyrics: str) -> dict:
     else: return __analyze(lyrics)
 
 def set_model(new_model: str):
+    global model, classifier
     model = new_model
     classifier = pipeline(task="text-classification", model=model, top_k=None)
