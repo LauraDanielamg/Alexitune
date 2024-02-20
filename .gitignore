@@ -168,3 +168,5 @@ artist_songs/
 *.csv
 .DS_Store
 roberta-goemotions/
+roberta-base-goemotions/
+roberta-large-goemotions/
