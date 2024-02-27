@@ -14,6 +14,33 @@ El proceso de desarrollo se apoyó en PyTorch y la biblioteca Transformers para 
 
 Hemos construido un modelo capaz de clasificar en  10 categorías sentimentales cualquier texto, seleccionadas de las  27 categorías originales. Aunque las métricas de evaluación del modelo no son óptimas debido a limitaciones temporales, representan un buen rendimiento para nuestros propósitos.
 
+## Arquitectura del Sistema
+- Frontend de la Aplicación: Interfaz de usuario de la aplicación de iOS.
+- Backend del Servidor: Desarrollado en Flask.
+- API de Genius: Utilizada para la extracción de datos de letras de canciones mediante la biblioteca de Python lyricsgenius.
+- Modelo de Clasificación de Emociones (RoBERTa): Entrenado en el dataset de GoEmotions.
+  
+## Componentes del Sistema
+- Base de Datos de Letras de Canciones: Construida por el equipo, almacenando datos de artistas, canciones y charts de popularidad.
+- Modelo de Clasificación de Emociones Entrenado: Implementado en el backend, clasificando en base a 10 emociones.
+- Servicio de Recomendación de Listas de Reproducción: Utiliza el modelo para recomendar listas basadas en el estado de ánimo del usuario.
+  
+## Interacciones entre Componentes
+
+La aplicación solicita listas de reproducción basadas en el estado de ánimo del usuario.
+El backend ejecuta el modelo en las letras de canciones almacenadas y utiliza la información para recomendar listas de reproducción.
+
+##  Interfaces Externas
+API de Genius: Utilizada para extraer letras de canciones.
+
+## Flujos de Datos
+Letras de canciones desde Genius API -> Base de Datos -> Modelo de Clasificación -> Servicio de Recomendación -> Aplicación de iOS.
+
+## Dependencias
+
+La aplicación depende del backend para ejecutar el modelo.
+El backend depende de la API de Genius para obtener letras de canciones.
+
 ## Comentario de los Retos y Que Se Han Presentado
 
 Durante el desarrollo, enfrentamos varios retos, desde la extracción de datos hasta la limpieza y el tratamiento de los mismos, hasta la necesidad de reentrenar el modelo para mejorar su precisión. La subjetividad inherente a las emociones y su representación en la música también nos llevó a reflexionar sobre cómo mejorar aún más nuestro modelo.
