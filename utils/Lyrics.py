@@ -33,7 +33,7 @@ def __download(id: int) -> str:
         return __load(path)
 
     try:
-        lyricts = genius.lyrics(id, remove_section_headers=True)
+        lyricts = genius.lyrics(id, remove_section_headers=True) #False para extraer con headers, util para extraer el estribillo
     except HTTPError as err:
         print(err)
         lyricts = ''
